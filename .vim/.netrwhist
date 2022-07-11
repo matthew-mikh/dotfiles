@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/Users/matthewmikhailov'
+let g:netrw_dirhist_6='/Users/matthewmikhailov/Workspaces/VSCode_Workspace/Verilog/CSE_141L/CSE141L-TermProject/modules'
+let g:netrw_dirhist_5='/Volumes/Silkworm'
+let g:netrw_dirhist_4='/Users/matthewmikhailov/Workspaces/Scratchpaper'
+let g:netrw_dirhist_3='/Users/matthewmikhailov/Workspaces/Scratchpaper/110_project'
+let g:netrw_dirhist_2='/Users/matthewmikhailov/Workspaces/Scratchpaper/110_project/ZooSeeker-Assets'
+let g:netrw_dirhist_1='/Users/matthewmikhailov/Workspaces/Scratchpaper/110_project/ZooSeeker-Assets/example'
+let g:netrw_dirhist_0='/Users/matthewmikhailov/Workspaces/Scratchpaper/110_project/ZooSeeker-Assets/example/gradle'
+let g:netrw_dirhist_9='/Users/matthewmikhailov/Workspaces/Scratchpaper/110_project/ZooSeeker-Assets/example/gradle/wrapper'
+let g:netrw_dirhist_8='/Users/matthewmikhailov/Workspaces/Scratchpaper/110_project/ZooSeeker-Assets/example/gradle'

@@ -1,0 +1,33 @@
+Command line delete	word to the left:	CRTL+W
+					word to the right:	option+d
+					all to the left:	CTRL+U
+					all to the right:	CTRL+K
+
+Command line move word to the right:	option+f
+				  word to the left:		option+b
+				  beginning of line:	CTRL+A
+				  end of line:			CTRL+E
+
+to check hardware:	lscpu
+to check networking hardware:	lspci
+to check infiniband status:		ibstat
+ping:							ping
+set -o vi
+
+du -sch .[!.]* * 2> >(grep -v -e "Permission denied" -e "Operation not permitted") > test.txt
+
+in vim, use CTRL-N or CTRL-P in insert mode for word completion
+
+vim t: up to 
+f: up to and include
+gf: go to file under cursor
+CTRL-o: return to last file in buffer
+
+tmux ls // show sessions
+tmux // start new session
+tmux a // attaches to an existing session
+CTRL-B  // (within tmux) leader sequence
+<leader> d // detach tmux session
+tmux kill-session -t <num>
+
+find . -name "data*.txt" -print 2>/dev/null
