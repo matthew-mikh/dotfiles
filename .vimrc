@@ -1,7 +1,7 @@
 syntax enable " Enable syntax highlighting
 " let g:solarized_termcolors=256
-set background=dark
-colorscheme solarized
+" set background=dark
+" colorscheme solarized
 set colorcolumn=80 " Put a line at column 80 for 80 chars
 " highlight ColorColumn ctermbg=8 " Make line dark gray
 " set lbr " Automatically break when the total width is hit
