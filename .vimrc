@@ -27,6 +27,7 @@ set backspace=indent,eol,start
 set shiftwidth=4 " Make indents 4 spaces
 set tabstop=4 " The number of visual spaces per TAB
 set softtabstop=4 " The number of spaces in TAB when editing
+set expandtab
 
 set showmatch " Highlights matching parenthesis etc
 
